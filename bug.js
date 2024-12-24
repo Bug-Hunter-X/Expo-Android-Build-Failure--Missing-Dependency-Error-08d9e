@@ -1,0 +1,1 @@
+This bug occurs when using the Expo CLI to build an Android app.  The build process fails with a cryptic error message related to a missing or incorrectly configured dependency, even though the dependency appears to be correctly listed in package.json and installed.  The error message may be vague, offering little insight into the root cause.
